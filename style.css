@@ -1,0 +1,12 @@
+body {
+    background-color: #00FFFF;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #333;
+}
+.container {
+    padding: 10px;
+    border-radius: 4px;
+}
